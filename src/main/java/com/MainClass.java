@@ -23,8 +23,7 @@ public class MainClass {
             Student st2= new Student(3,"rita",565);
             session.save(st2);
             
-            Student st3= new Student(4,"peter",575);
-            session.save(st3);
+           
             
             
         //------------    
